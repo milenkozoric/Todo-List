@@ -1,0 +1,10 @@
+.app {
+    padding: 20px;
+    background: rgb(205,208,208);
+background: linear-gradient(176deg, rgba(205,208,208,1) 47%, rgba(240,90,229,1) 99%);
+    height: 100vh;
+}
+
+.app h1 {
+    text-align: center;
+}
